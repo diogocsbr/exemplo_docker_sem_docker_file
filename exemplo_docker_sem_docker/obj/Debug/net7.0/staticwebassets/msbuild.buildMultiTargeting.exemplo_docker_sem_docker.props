@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\exemplo_docker_sem_docker.props" />
+</Project>

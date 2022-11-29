@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aAWdtG56+1HfS75kqgJjAYai9prRyEhkLpOBaf28pV0=",
+  "Source": "exemplo_docker_sem_docker",
+  "BasePath": "_content/exemplo_docker_sem_docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

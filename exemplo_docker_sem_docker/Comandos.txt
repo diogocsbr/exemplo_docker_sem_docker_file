@@ -1,0 +1,5 @@
+Criar a imagem 
+    dotnet publish --os linux --arch x64 -p:PublishProfile=DefaultContainer --sc=true
+    
+Executar o container
+     docker run -p 9008:80 exemplodotnet7:1.2.8
